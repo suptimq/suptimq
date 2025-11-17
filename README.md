@@ -17,12 +17,16 @@ Dual-head sparse UNet and transformer decoders enabling multi-level tree & branc
 [📄 Paper](https://arxiv.org/abs/2503.05630) · [💻 Code](https://github.com/perrydoremi/PlantSegStudio)
 
 📌 **3D Branch Point Cloud Completion for Robotic Pruning in Apple Orchards (IROS 2024)**  
-GAN-enhanced surface completion for partial LiDAR scans to enable pruning decision making.  
+Transformer-based surface completion for partial LiDAR scans to enable pruning decision making.  
 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10803058) · [💻 Code](https://github.com/suptimq/Real-Sim_3D_Branch_Completion)
 
 📌 **Geometry-Based 3D Characterization of Apple Tree Architecture in Orchards (Plant Phenomics)**  
-GAN-enhanced surface completion for partial LiDAR scans to enable pruning decision making.  
+A geometry-driven pipeline that reconstructs full apple tree architecture from LiDAR data to enable quantitative structural analysis.  
 [📄 Paper](https://spj.science.org/doi/full/10.34133/plantphenomics.0179) · [💻 Code](https://github.com/suptimq/Real-Sim_3D_Branch_Completion)
+
+📌 **High throughput saliency-based quantification of grape powdery mildew at the microscopic level for disease resistance breeding (Horticulture Research)**  
+A high-throughput saliency-based image analysis method for microscopic quantification of powdery mildew severity to support disease-resistance breeding.  
+[📄 Paper](https://academic.oup.com/hr/article/doi/10.1093/hr/uhac187/6675613) · [💻 Code](https://github.com/suptimq/Saliency_based_Grape_PM_Quantification)
 
 ---
 
