@@ -1,4 +1,47 @@
-## Hi there 👋
+## Hi there! I'm Tian Q 🍂🍂🍂
+
+🔭 PhD Student at Cornell University  
+🚜 3D Vision | Robotics | Generative Models  
+📄 [Resume](https://drive.google.com/file/d/1UM4WyNBcYKWrGKntB-dRA9Rs25OD2pxJ/view?usp=sharing)
+
+---
+
+### 🧠 Research Projects
+
+📌 **Diffusion-based 3D Apple Tree Reconstruction Framework with Sparse-View (RA-L Under Review)** 
+Single-image-to-3D tree reconstruction using multi-modal diffusion and LRM for high-fidelity geometry.  
+[📄 Paper](https://arxiv.org/abs/2508.19508) · [💻 Code](Coming Soon)
+
+---
+
+📌 Real2Sim Tree Digital Twin Framework  
+Large-scale procedural tree generation & sensor simulation for 3D perception.  
+[📄 Paper](https://arxiv.org/abs/2503.05630) · [💻 Code](Coming Soon)
+
+---
+
+📌 **Joint 3D Point Cloud Segmentation (ICRA 2025)**  
+Dual-head sparse UNet and transformer decoders enabling multi-level tree & branch segmentation.  
+[📄 Paper](https://arxiv.org/abs/2503.05630) · [💻 Code](https://github.com/perrydoremi/PlantSegStudio)
+
+---
+
+📌 **3D Branch Point Cloud Completion for Robotic Pruning in Apple Orchards (IROS 2024)**  
+GAN-enhanced surface completion for partial LiDAR scans to enable pruning decision making.  
+[📄 Paper](https://ieeexplore.ieee.org/abstract/document/10803058) · [💻 Code](https://github.com/suptimq/Real-Sim_3D_Branch_Completion)
+
+---
+
+📌 **Geometry-Based 3D Characterization of Apple Tree Architecture in Orchards (Plant Phenomics)**  
+GAN-enhanced surface completion for partial LiDAR scans to enable pruning decision making.  
+[📄 Paper](https://spj.science.org/doi/full/10.34133/plantphenomics.0179) · [💻 Code](https://github.com/suptimq/Real-Sim_3D_Branch_Completion)
+
+---
+
+### 📬 Contact  
+- Email: tq42@cornell.edu
+- [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKzYXQ3nNXu7T5fHVScnPP6HK9V__FoYT3_udITvqBtiSj7IqGCYMjwO0Kv-8DMP7bq-Noaqoljuywb5Kk6ktw&user=z8qWV70AAAAJ): 
+- [LinkedIn](https://linkedin.com/in/suptimq)
 
 <!--
 **suptimq/suptimq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
