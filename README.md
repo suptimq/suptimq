@@ -8,7 +8,7 @@
 
 ### 🧠 Research Projects
 
-📌 **Diffusion-based 3D Apple Tree Reconstruction Framework with Sparse-View (RA-L Under Review)** 
+📌 **Diffusion-based 3D Apple Tree Reconstruction Framework with Sparse-View (RA-L Under Review)**  
 Single-image-to-3D tree reconstruction using multi-modal diffusion and LRM for high-fidelity geometry.  
 [📄 Paper](https://arxiv.org/abs/2508.19508) · [💻 Code](Coming Soon)
 
@@ -21,7 +21,7 @@ Transformer-based surface completion for partial LiDAR scans to enable pruning d
 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10803058) · [💻 Code](https://github.com/suptimq/Real-Sim_3D_Branch_Completion)
 
 📌 **Geometry-Based 3D Characterization of Apple Tree Architecture in Orchards (Plant Phenomics)**  
-A geometry-driven pipeline that reconstructs full apple tree architecture from LiDAR data to enable quantitative structural analysis.  
+A geometry-based pipeline that reconstructs full apple tree architecture from LiDAR data to enable quantitative structural analysis.  
 [📄 Paper](https://spj.science.org/doi/full/10.34133/plantphenomics.0179) · [💻 Code](https://github.com/suptimq/Real-Sim_3D_Branch_Completion)
 
 📌 **High throughput saliency-based quantification of grape powdery mildew at the microscopic level for disease resistance breeding (Horticulture Research)**  
