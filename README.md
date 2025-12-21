@@ -10,7 +10,7 @@
 
 📌 **Diffusion-based 3D Apple Tree Reconstruction Framework with Sparse-View (RA-L Under Review)**  
 Single-image-to-3D tree reconstruction using multi-modal diffusion and LRM for high-fidelity geometry.  
-[📄 Paper](https://arxiv.org/abs/2508.19508) · [💻 Code](Coming Soon)
+[📄 Paper](https://arxiv.org/abs/2508.19508) · [💻 Code](https://github.com/suptimq/DATR_Diffusion_Tree_Reconstruction)
 
 📌 **Joint 3D Point Cloud Segmentation (ICRA 2025)**  
 Dual-head sparse UNet and transformer decoders enabling multi-level tree & branch segmentation.  
@@ -32,7 +32,7 @@ A high-throughput saliency-based image analysis method for microscopic quantific
 
 📌 **Real2Sim Tree Digital Twin Framework**  
 Large-scale procedural tree generation & sensor simulation for 3D perception.  
-[📄 Paper](https://arxiv.org/abs/2503.05630) · [💻 Code](Coming Soon)
+[📄 Paper](https://arxiv.org/abs/2503.05630) · [💻 Code](https://github.com/suptimq/DATR_Diffusion_Tree_Reconstruction)
 
 ---
 
