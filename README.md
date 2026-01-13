@@ -8,7 +8,7 @@
 
 ### 🧠 Research Projects
 
-📌 **Diffusion-based 3D Apple Tree Reconstruction Framework with Sparse-View (RA-L Under Review)**  
+📌 **Diffusion-based 3D Apple Tree Reconstruction Framework with Sparse-View (RA-L 2025)**  
 Single-image-to-3D tree reconstruction using multi-modal diffusion and LRM for high-fidelity geometry.  
 [📄 Paper](https://arxiv.org/abs/2508.19508) · [💻 Code](https://github.com/suptimq/DATR_Diffusion_Tree_Reconstruction)
 
